@@ -9,11 +9,19 @@
 
 table {
     border-collapse: collapse;
-    border: 2px black solid;
-    font: 12px sans-serif;
+    border: 2px grey solid;
+    font: 14px/1.5em "Roboto";
+    display: table;
+    margin: 0 auto;
+    margin-top: 10px;
 }
 
 td {
-    border: 1px black solid;
+    border: 1px grey solid;
     padding: 5px;
+}
+
+.header-text {
+  font-weight: bold;
+  text-align: center;
 }

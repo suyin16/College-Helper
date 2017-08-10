@@ -13,7 +13,7 @@
                             <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
                                 <h2>Private</h2>
                                 <div class="devider"></div>
-                                <p class="subtitle">Input the name of a private college or university in New York into the search bar</p>
+                                <p class="subtitle">Input the name of a private college or university in New York into the search bar. The cost displayed is the annual in-state tuition of the school.</p>
                             </div>
                         </div>
                     </div>
@@ -49,7 +49,11 @@
                               console.log(filteredData)
                               // Print out filtered list.
                               d3.select('#filtered-list').html(
-                                "<table><tr><td>Name</td><td>Cost</td><td>System</td></tr><tr>" +
+                                "<table><tr>" +
+                                "   <td class=\"header-text\">Name</td>" +
+                                "   <td class=\"header-text\">Cost</td>" +
+                                "   <td class=\"header-text\">System</td>" +
+                                "</tr><tr>" +
                                   filteredData.map(function(d) {
                                     return "<td>" + d.Name + "</td><td>" + d.Cost + "</td><td>" + d.System + "</td>";
                                   }).join("</tr><tr>")
