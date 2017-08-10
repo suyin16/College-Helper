@@ -1,4 +1,19 @@
-#filterOn {
-  position: absolute;
-  left: 44%;
+#search-bar-outer {
+  width:100%;
+}
+
+#filter-on {
+  display: table;
+  margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px black solid;
+    font: 12px sans-serif;
+}
+
+td {
+    border: 1px black solid;
+    padding: 5px;
 }
