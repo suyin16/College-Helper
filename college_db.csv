@@ -1,184 +1,272 @@
 Name,Cost,System
-Adelphi University,34000,Private
-Albany College of Pharmacy and Health Sciences,31200,Private
-Alfred University,26108,Private
-American Academy McAllister Institute of Funeral Service,16388,Private
-American Academy of Dramatic Arts New York,32440,Private
-American Musical and Dramatic Academy,35600,Private
-ASA Institute of Business and Computer Technology,13104,Private
-Bais Medrash Elyon,8600,Private
-Bard College,50704,Private
-Barnard College,48614,Private
-Beis Medrash Heichal Dovid,9200,Private
-Berkeley College New York,22800,Private
-Beth Hamedrash Shaarei Yosher Institute,8850,Private
-Beth Hatalmud Rabbinical College,7750,Private
-Boricua College,10600,Private
-Bramson ORT College,10800,Private
-Briarcliffe College,14349,Private
-Bryant and Stratton College Albany,16777,Private
-Bryant and Stratton College Amherst,15987,Private
-Bryant and Stratton College Buffalo,16510,Private
-Bryant and Stratton College Greece,16430,Private
-Bryant and Stratton College Henrietta,16482,Private
-Bryant and Stratton College Main Syracuse,16996,Private
-Bryant and Stratton College Southtowns,16442,Private
-Bryant and Stratton College Syracuse North,15622,Private
-Business Informatics Center Inc,13200,Private
-Canisius College,33948,Private
-Cazenovia College,32104,Private
-Central Yeshiva Tomchei Tmimim Lubavitz,6700,Private
-Clarkson University,45132,Private
-Colgate University,51635,Private
-College of Mount Saint Vincent,34250,Private
-Columbia University in the City of New York,52478,Private
-Concordia College New York,29350,Private
-Cooper Union for the Advancement of Science and Art,42000,Private
-Cornell University,50712,Private
-Crouse Hospital College of Nursing,10925,Private
-Culinary Institute of America,28630,Private
-D'Youville College,24740,Private
-Daemen College,26400,Private
-Davis College,15000,Private
-DeVry College of New York,15835,Private
-Dominican College of Blauvelt,26578,Private
-Dowling College,29100,Private
-Ellis School of Nursing,9525,Private
-Elmira Business Institute,20700,Private
-Elmira College,41900,Private
-Everest Institute Rochester,13500,Private
-Five Towns College,18980,Private
-Fordham University,47850,Private
-Globe Institute of Technology,10950,Private
-Hamilton College,50730,Private
-Hartwick College,42050,Private
-Hilbert College,20650,Private
-Hobart William Smith Colleges,50432,Private
-Hofstra University,41100,Private
-Houghton College,30136,Private
-Institute of Design and Construction,8440,Private
-Iona College,34384,Private
-Island Drafting and Technical Institute,15750,Private
-Ithaca College,41776,Private
-ITT Technical Institute Albany,17748,Private
-ITT Technical Institute Getzville,17748,Private
-ITT Technical Institute Liverpool,17748,Private
-Jamestown Business College,11700,Private
-Jewish Theological Seminary of America,50026,Private
-Kehilath Yakov Rabbinical Seminary,9600,Private
-Keuka College,28501,Private
-Kol Yaakov Torah Center,6500,Private
-Le Moyne College,32040,Private
-LIM College,24950,Private
-Long Island Business Institute,13299,Private
-Long Island University Brooklyn Campus,34352,Private
-Long Island University C W Post Campus,34352,Private
-Machzikei Hadath Rabbinical College,11000,Private
-Mandl The College of Allied Health,14000,Private
-Manhattan College,36900,Private
-Manhattan School of Music,44000,Private
-Manhattanville College,35570,Private
-Maria College of Albany,13800,Private
-Marist College,34550,Private
-Marymount Manhattan College,28870,Private
-Medaille College,27276,Private
-Memorial Hospital School of Nursing,9758,Private
-Mercy College,17772,Private
-Mesivta of Eastern Parkway Yeshiva Zichron Meilech,8600,Private
-Mesivta Torah Vodaath Rabbinical Seminary,9800,Private
-Mesivtha Tifereth Jerusalem of America,10750,Private
-Metropolitan College of New York,17880,Private
-Mildred Elley School Albany Campus,9840,Private
-Mirrer Yeshiva Cent Institute,6980,Private
-Molloy College,28000,Private
-Monroe College Main Campus,13560,Private
-Monroe College New Rochelle,11640,Private
-Mount Saint Mary College,28048,Private
-Nazareth College,31024,Private
-New York Career Institute,13800,Private
-New York College of Health Professions,14040,Private
-New York Institute of Technology,33920,Private
-New York School of Interior Design,21960,Private
-New York University,46590,Private
-Niagara University,29500,Private
-Nyack College,24500,Private
-Ohr Hameir Theological Seminary,10400,Private
-Olean Business Institute,11600,Private
-Pace University New York,41120,Private
-Pacific College of Oriental Medicine New York,12357,Private
-Paul Smiths College of Arts and Science,24210,Private
-Phillips Beth Israel School of Nursing,24990,Private
-Plaza College,11000,Private
-Polytechnic Institute of New York University,40060,Private
-Pratt Institute Main,46140,Private
-Professional Business College,9130,Private
-Rabbinical Academy Mesivta Rabbi Chaim Berlin,12450,Private
-Rabbinical College Beth Shraga,12100,Private
-Rabbinical College Bobover Yeshiva Bnei Zion,7750,Private
-Rabbinical College of Ch'san Sofer New York,8000,Private
-Rabbinical College of Long Island,8450,Private
-Rabbinical College of Ohr Shimon Yisroel,12000,Private
-Rabbinical Seminary M'kor Chaim,6550,Private
-Rabbinical Seminary of America,9800,Private
-Rensselaer Polytechnic Institute,49520,Private
-Roberts Wesleyan College,28486,Private
-Rochester Institute of Technology,38024,Private
-Saint Bonaventure University,31366,Private
-Saint Elizabeth College of Nursing,13600,Private
-Saint John Fisher College,31300,Private
-Saint Joseph's College New York,24500,Private
-Saint Thomas Aquinas College,28800,Private
-School of Visual Arts,9930,Private
-Sh'or Yoshuv Rabbinical College,51196,Private
-Siena College,34326,Private
-Simmons Institute of Funeral Service Inc,11000,Private
-Skidmore College,49716,Private
-St John's University New York,38630,Private
-St Joseph's College of Nursing at St Joseph's Hospital Health Center,18020,Private
-St Lawrence University,50830,Private
-St Paul's School of Nursing Queens,29138,Private
-St Paul's School of Nursing Staten Island,16640,Private
-St. Francis College,24350,Private
-Swedish Institute a College of Health Sciences,18000,Private
-Syracuse University,43440,Private
-Talmudical Institute of Upstate New York,5300,Private
-Talmudical Seminary of Bobov,7600,Private
-Talmudical Seminary Oholei Torah,9300,Private
-TCI College,13170,Private
-The Art Institute of New York City,19656,Private
-The College of New Rochelle,33748,Private
-The College of Saint Rose,29656,Private
-The College of Westchester,20115,Private
-The Juilliard School,41310,Private
-The King?s College,33870,Private
-The New School,44460,Private
-The Sage Colleges,27405,Private
-Torah Temimah Talmudical Seminary,10750,Private
-Touro College,16380,Private
-Trocaire College,16450,Private
-Union College,51225,Private
-United Talmudical Seminary,13620,Private
-University of Rochester,49260,Private
-Uta Mesivta of Kiryas Joel,10500,Private
-Utica College,19446,Private
-Utica School of Commerce,12960,Private
-Vassar College,52320,Private
-Vaughn College of Aeronautics and Technology,22740,Private
-Villa Maria College,20030,Private
-Wagner College,43500,Private
-Wells College,37030,Private
-Wood Tobe Coburn School,16920,Private
-Yeshiva D'monsey Rabbinical College,6500,Private
-Yeshiva Derech Chaim,11800,Private
-Yeshiva Gedolah Imrei Yosef D'spinka,8000,Private
-Yeshiva Karlin Stolin,11500,Private
-Yeshiva of Machzikai Hadas,8200,Private
-Yeshiva of Nitra Rabbinical College,8400,Private
-Yeshiva of the Telshe Alumni,9300,Private
-Yeshiva Shaar Hatorah,15000,Private
-Yeshiva Shaarei Torah of Rockland,11750,Private
-Yeshiva University,39070,Private
-Yeshivas Novominsk,9600,Private
-Yeshivat Mikdash Melech,8100,Private
-Yeshivath Viznitz,9300,Private
-Yeshivath Zichron Moshe,11500,Private
+,,
+Adelphi University,"$34,000 ",Private
+Albany College of Pharmacy and Health Sciences,"$31,200 ",Private
+Alfred University,"$26,108 ",Private
+American Academy McAllister Institute of Funeral Service,"$16,388 ",Private
+American Academy of Dramatic Arts New York,"$32,440 ",Private
+American Musical and Dramatic Academy,"$35,600 ",Private
+ASA Institute of Business and Computer Technology,"$13,104 ",Private
+Bais Medrash Elyon,"$8,600 ",Private
+Bard College,"$50,704 ",Private
+Barnard College,"$48,614 ",Private
+Beis Medrash Heichal Dovid,"$9,200 ",Private
+Berkeley College New York,"$22,800 ",Private
+Beth Hamedrash Shaarei Yosher Institute,"$8,850 ",Private
+Beth Hatalmud Rabbinical College,"$7,750 ",Private
+Boricua College,"$10,600 ",Private
+Bramson ORT College,"$10,800 ",Private
+Briarcliffe College,"$14,349 ",Private
+Bryant and Stratton College Albany,"$16,777 ",Private
+Bryant and Stratton College Amherst,"$15,987 ",Private
+Bryant and Stratton College Buffalo,"$16,510 ",Private
+Bryant and Stratton College Greece,"$16,430 ",Private
+Bryant and Stratton College Henrietta,"$16,482 ",Private
+Bryant and Stratton College Main Syracuse,"$16,996 ",Private
+Bryant and Stratton College Southtowns,"$16,442 ",Private
+Bryant and Stratton College Syracuse North,"$15,622 ",Private
+Business Informatics Center Inc,"$13,200 ",Private
+Canisius College,"$33,948 ",Private
+Cazenovia College,"$32,104 ",Private
+Central Yeshiva Tomchei Tmimim Lubavitz,"$6,700 ",Private
+Clarkson University,"$45,132 ",Private
+Colgate University,"$51,635 ",Private
+College of Mount Saint Vincent,"$34,250 ",Private
+Columbia University in the City of New York,"$52,478 ",Private
+Concordia College New York,"$29,350 ",Private
+Cooper Union for the Advancement of Science and Art,"$42,000 ",Private
+Cornell University,"$50,712 ",Private
+Crouse Hospital College of Nursing,"$10,925 ",Private
+Culinary Institute of America,"$28,630 ",Private
+D'Youville College,"$24,740 ",Private
+Daemen College,"$26,400 ",Private
+Davis College,"$15,000 ",Private
+DeVry College of New York,"$15,835 ",Private
+Dominican College of Blauvelt,"$26,578 ",Private
+Dowling College,"$29,100 ",Private
+Ellis School of Nursing,"$9,525 ",Private
+Elmira Business Institute,"$20,700 ",Private
+Elmira College,"$41,900 ",Private
+Everest Institute Rochester,"$13,500 ",Private
+Five Towns College,"$18,980 ",Private
+Fordham University,"$47,850 ",Private
+Globe Institute of Technology,"$10,950 ",Private
+Hamilton College,"$50,730 ",Private
+Hartwick College,"$42,050 ",Private
+Hilbert College,"$20,650 ",Private
+Hobart William Smith Colleges,"$50,432 ",Private
+Hofstra University,"$41,100 ",Private
+Houghton College,"$30,136 ",Private
+Institute of Design and Construction,"$8,440 ",Private
+Iona College,"$34,384 ",Private
+Island Drafting and Technical Institute,"$15,750 ",Private
+Ithaca College,"$41,776 ",Private
+ITT Technical Institute Albany,"$17,748 ",Private
+ITT Technical Institute Getzville,"$17,748 ",Private
+ITT Technical Institute Liverpool,"$17,748 ",Private
+Jamestown Business College,"$11,700 ",Private
+Jewish Theological Seminary of America,"$50,026 ",Private
+Kehilath Yakov Rabbinical Seminary,"$9,600 ",Private
+Keuka College,"$28,501 ",Private
+Kol Yaakov Torah Center,"$6,500 ",Private
+Le Moyne College,"$32,040 ",Private
+LIM College,"$24,950 ",Private
+Long Island Business Institute,"$13,299 ",Private
+Long Island University Brooklyn Campus,"$34,352 ",Private
+Long Island University C W Post Campus,"$34,352 ",Private
+Machzikei Hadath Rabbinical College,"$11,000 ",Private
+Mandl The College of Allied Health,"$14,000 ",Private
+Manhattan College,"$36,900 ",Private
+Manhattan School of Music,"$44,000 ",Private
+Manhattanville College,"$35,570 ",Private
+Maria College of Albany,"$13,800 ",Private
+Marist College,"$34,550 ",Private
+Marymount Manhattan College,"$28,870 ",Private
+Medaille College,"$27,276 ",Private
+Memorial Hospital School of Nursing,"$9,758 ",Private
+Mercy College,"$17,772 ",Private
+Mesivta of Eastern Parkway Yeshiva Zichron Meilech,"$8,600 ",Private
+Mesivta Torah Vodaath Rabbinical Seminary,"$9,800 ",Private
+Mesivtha Tifereth Jerusalem of America,"$10,750 ",Private
+Metropolitan College of New York,"$17,880 ",Private
+Mildred Elley School Albany Campus,"$9,840 ",Private
+Mirrer Yeshiva Cent Institute,"$6,980 ",Private
+Molloy College,"$28,000 ",Private
+Monroe College Main Campus,"$13,560 ",Private
+Monroe College New Rochelle,"$11,640 ",Private
+Mount Saint Mary College,"$28,048 ",Private
+Nazareth College,"$31,024 ",Private
+New York Career Institute,"$13,800 ",Private
+New York College of Health Professions,"$14,040 ",Private
+New York Institute of Technology,"$33,920 ",Private
+New York School of Interior Design,"$21,960 ",Private
+New York University,"$46,590 ",Private
+Niagara University,"$29,500 ",Private
+Nyack College,"$24,500 ",Private
+Ohr Hameir Theological Seminary,"$10,400 ",Private
+Olean Business Institute,"$11,600 ",Private
+Pace University New York,"$41,120 ",Private
+Pacific College of Oriental Medicine New York,"$12,357 ",Private
+Paul Smiths College of Arts and Science,"$24,210 ",Private
+Phillips Beth Israel School of Nursing,"$24,990 ",Private
+Plaza College,"$11,000 ",Private
+Polytechnic Institute of New York University,"$40,060 ",Private
+Pratt Institute Main,"$46,140 ",Private
+Professional Business College,"$9,130 ",Private
+Rabbinical Academy Mesivta Rabbi Chaim Berlin,"$12,450 ",Private
+Rabbinical College Beth Shraga,"$12,100 ",Private
+Rabbinical College Bobover Yeshiva Bnei Zion,"$7,750 ",Private
+Rabbinical College of Ch'san Sofer New York,"$8,000 ",Private
+Rabbinical College of Long Island,"$8,450 ",Private
+Rabbinical College of Ohr Shimon Yisroel,"$12,000 ",Private
+Rabbinical Seminary M'kor Chaim,"$6,550 ",Private
+Rabbinical Seminary of America,"$9,800 ",Private
+Rensselaer Polytechnic Institute,"$49,520 ",Private
+Roberts Wesleyan College,"$28,486 ",Private
+Rochester Institute of Technology,"$38,024 ",Private
+Saint Bonaventure University,"$31,366 ",Private
+Saint Elizabeth College of Nursing,"$13,600 ",Private
+Saint John Fisher College,"$31,300 ",Private
+Saint Joseph's College New York,"$24,500 ",Private
+Saint Thomas Aquinas College,"$28,800 ",Private
+School of Visual Arts,"$9,930 ",Private
+Sh'or Yoshuv Rabbinical College,"$51,196 ",Private
+Siena College,"$34,326 ",Private
+Simmons Institute of Funeral Service Inc,"$11,000 ",Private
+Skidmore College,"$49,716 ",Private
+St John's University New York,"$38,630 ",Private
+St Joseph's College of Nursing at St Joseph's Hospital Health Center,"$18,020 ",Private
+St Lawrence University,"$50,830 ",Private
+St Paul's School of Nursing Queens,"$29,138 ",Private
+St Paul's School of Nursing Staten Island,"$16,640 ",Private
+St. Francis College,"$24,350 ",Private
+Swedish Institute a College of Health Sciences,"$18,000 ",Private
+Syracuse University,"$43,440 ",Private
+Talmudical Institute of Upstate New York,"$5,300 ",Private
+Talmudical Seminary of Bobov,"$7,600 ",Private
+Talmudical Seminary Oholei Torah,"$9,300 ",Private
+TCI College,"$13,170 ",Private
+The Art Institute of New York City,"$19,656 ",Private
+The College of New Rochelle,"$33,748 ",Private
+The College of Saint Rose,"$29,656 ",Private
+The College of Westchester,"$20,115 ",Private
+The Juilliard School,"$41,310 ",Private
+The King?s College,"$33,870 ",Private
+The New School,"$44,460 ",Private
+The Sage Colleges,"$27,405 ",Private
+Torah Temimah Talmudical Seminary,"$10,750 ",Private
+Touro College,"$16,380 ",Private
+Trocaire College,"$16,450 ",Private
+Union College,"$51,225 ",Private
+United Talmudical Seminary,"$13,620 ",Private
+University of Rochester,"$49,260 ",Private
+Uta Mesivta of Kiryas Joel,"$10,500 ",Private
+Utica College,"$19,446 ",Private
+Utica School of Commerce,"$12,960 ",Private
+Vassar College,"$52,320 ",Private
+Vaughn College of Aeronautics and Technology,"$22,740 ",Private
+Villa Maria College,"$20,030 ",Private
+Wagner College,"$43,500 ",Private
+Wells College,"$37,030 ",Private
+Wood Tobe Coburn School,"$16,920 ",Private
+Yeshiva D'monsey Rabbinical College,"$6,500 ",Private
+Yeshiva Derech Chaim,"$11,800 ",Private
+Yeshiva Gedolah Imrei Yosef D'spinka,"$8,000 ",Private
+Yeshiva Karlin Stolin,"$11,500 ",Private
+Yeshiva of Machzikai Hadas,"$8,200 ",Private
+Yeshiva of Nitra Rabbinical College,"$8,400 ",Private
+Yeshiva of the Telshe Alumni,"$9,300 ",Private
+Yeshiva Shaar Hatorah,"$15,000 ",Private
+Yeshiva Shaarei Torah of Rockland,"$11,750 ",Private
+Yeshiva University,"$39,070 ",Private
+Yeshivas Novominsk,"$9,600 ",Private
+Yeshivat Mikdash Melech,"$8,100 ",Private
+Yeshivath Viznitz,"$9,300 ",Private
+Yeshivath Zichron Moshe,"$11,500 ",Private
+Baruch college ,"$6,330 ",CUNY
+Borough of Manhattan Community College,"$5,170 ",CUNY
+Bronx Community College,"$5,206 ",CUNY
+Brooklyn College,"$6,330 ",CUNY
+College of Staten Island,"$6,330 ",CUNY
+CUNY Graduate Center,"$4,530 ",CUNY
+CUNY Graduate School of Journalism,"$24,830 ",CUNY
+CUNY Graduate School of Public HealthPolicy ,"$5,225 ",CUNY
+CUNY Law School,"$14,663 ",CUNY
+CUNY School of Professional Studies,"$3,265 ",CUNY
+Guttman Community College,"$2,400 ",CUNY
+Hostos Community College,"$5,202 ",CUNY
+Hunter College,"$6,330 ",CUNY
+John Jay College of Criminal Justice,"$6,810 ",CUNY
+Kingsborough Community College,"$5,202 ",CUNY
+LaGuardia Community College,"$4,566 ",CUNY
+Lehman College,"$6,330 ",CUNY
+Macaulay Honors College,$0 ,CUNY
+Medgar Evers College,"$6,330 ",CUNY
+New York City College of Technology,"$6,669 ",CUNY
+Queens College,"$6,330 ",CUNY
+Queensborough Community College,"$4,540 ",CUNY
+City College,"$6,530 ",CUNY
+York College,"$19,430 ",CUNY
+Binghamton University,"$24,861 ",SUNY
+NYS College of Agriculture and Life Sciences,"$26,306 ",SUNY
+NYS College of Ceramics,"$15,814 ",SUNY
+SUNY College of Environmental Science and Forestry,"$7,770 ",SUNY
+NYS College of Human Ecology,"$26,306 ",SUNY
+College of Optometry,"$28,390 ",SUNY
+NYS College of Veterinary Medicine,"$17,375 ",SUNY
+Downstate Medical Center,"$32,779 ",SUNY
+School of Industrial and Labor Relations,"$17,621 ",SUNY
+Stony Brook University,"$8,855 ",SUNY
+SUNY Polytechnic Institute,"$7,890 ",SUNY
+University at Albany,"$24,731 ",SUNY
+University at Buffalo,"$6,770 ",SUNY
+Upstate Medical University,"$33,683 ",SUNY
+Buffalo State College,"$3,851 ",SUNY
+Empire State College,$278 per credit,SUNY
+Purchase College,"$8,267 ",SUNY
+State University of New York at Geneseo,"$24,440 ",SUNY
+State University of New York at New Paltz,"$6,470 ",SUNY
+State University of New York at Oswego,"$23,547 ",SUNY
+State University of New York at Potsdam,"$6,670 ",SUNY
+SUNY College at Oneonta,"$7,870 ",SUNY
+SUNY Cortland,"$8,050 ",SUNY
+SUNY Fredonia,"$8,074 ",SUNY
+SUNY Plattsburgh,"$7,850 ",SUNY
+The College at Brockport,"$7,904 ",SUNY
+The College at Old Westbury,"$7,643 ",SUNY
+Alfred State College,"$8,057 ",SUNY
+SUNY Farmingdale,"$3,235 ",SUNY
+Maritime College,"$7,809 ",SUNY
+Morrisville State College,"$6,470 ",SUNY
+SUNY Canton,"$7,855 ",SUNY
+SUNY Cobleskill,"$7,719 ",SUNY
+SUNY Delhi,"$7,855 ",SUNY
+Adirondack Community College,"$4,423 ",SUNY
+Broome Community College,"$4,721 ",SUNY
+Cayuga Community College,"$4,742 ",SUNY
+Clinton Community College,"$4,670 ",SUNY
+Columbia-Greene Community College,"$4,552 ",SUNY
+Corning Community College,"$4,774 ",SUNY
+Dutchess Community College,"$3,866 ",SUNY
+Erie Community College,"$5,189 ",SUNY
+Finger Lakes Community College,"$4,704 ",SUNY
+Fulton-Montgomery Community College,"$4,440 ",SUNY
+Genesee Community College,"$4,410 ",SUNY
+Herkimer County Community College,"$4,590 ",SUNY
+Hudson Valley Community College,"$5,188 ",SUNY
+Jamestown Community College,"$5,360 ",SUNY
+Jefferson Community College,"$4,835 ",SUNY
+Mohawk Valley Community College,"$4,616 ",SUNY
+Monroe Community College,"$4,554 ",SUNY
+Nassau Community College,"$4,854 ",SUNY
+Niagara County Community College,"$4,370 ",SUNY
+North Country Community College,"$4,050 ",SUNY
+Onondaga Community College,"$5,014 ",SUNY
+Orange County Community College,"$5,128 ",SUNY
+Rockland Community College,"$4,654 ",SUNY
+Schenectady County Community College,"$4,054 ",SUNY
+Suffolk County Community College,"$5,100 ",SUNY
+Sullivan County Community College,"$5,500 ",SUNY
+Tompkins Cortland Community College,"$5,666 ",SUNY
+Ulster County Community College,"$4,942 ",SUNY
+Westchester Community College,"$4,723 ",SUNY
