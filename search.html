@@ -1,0 +1,72 @@
+<link rel="stylesheet" href="css/search.css">
+
+
+<!-- Begin search section -->
+<section id="search-section" class="page bg-style1">
+  <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="portfolio">
+                    <!-- Begin page header -->
+                    <div class="page-header-wrapper">
+                        <div class="container">
+                            <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
+                                <h2>Search</h2>
+                                <div class="devider"></div>
+                                <p class="subtitle">ADD DESCRIPTION.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End page header -->
+
+                    <!-- Start HTML of search bar -->
+                    <div id="search-bar-outer">
+                      <input type="text" id="filter-on" />
+                      <div id="filtered-list"></div>
+                    </div>
+                    <!-- End HTML of search bar -->
+
+                    <!-- Start Javascrip for serach bar -->
+                    <script>
+                    // Loading the data.
+                    d3.csv("college_db.csv", function(data) {
+                          // Calling the onFilter function.
+                          onFilter();
+                          d3.select('#filter-on').on('keyup', onFilter);
+
+                          // Function that does filtering.
+                          function onFilter() {
+                            // Getting the value of the text from the search bar.
+                            var filterText = d3.select('#filter-on').property('value');
+
+                            // If filterText is set then populate list.
+                            if (filterText !== "") {
+                              // Getting filtered list.
+                              var filteredData = data.filter(function(d) {
+                                return (d.Name.toLowerCase().indexOf(filterText.toLowerCase()) === 0);
+                              });
+
+                              console.log(filteredData)
+                              // Print out filtered list.
+                              d3.select('#filtered-list').html(
+                                "<table><tr>" +
+                                "   <td class=\"header-text\">Name</td>" +
+                                "   <td class=\"header-text\">Cost</td>" +
+                                "   <td class=\"header-text\">System</td>" +
+                                "</tr><tr>" +
+                                  filteredData.map(function(d) {
+                                    return "<td>" + d.Name + "</td><td>" + d.Cost + "</td><td>" + d.System + "</td>";
+                                  }).join("</tr><tr>")
+                                  + "</tr></table>"
+                              );
+                            }
+                          }
+                    });
+                  </script>
+                  <!-- End Javascript for search bar -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End search section -->
