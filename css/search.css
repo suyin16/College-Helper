@@ -1,13 +1,19 @@
 #search-bar-outer {
   width:100%;
+  padding-left: 25px
 }
 
 #filter-on {
   display: table;
+  /*text-align: center;*/
+  /*left: 43.5%;*/
   margin: 0 auto;
 }
 
+
 table {
+    /*left: 43.5%;*/
+    /*text-align: center;*/
     border-collapse: collapse;
     border: 2px grey solid;
     font: 14px/1.5em "Roboto";
