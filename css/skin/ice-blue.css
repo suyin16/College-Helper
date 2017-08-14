@@ -1,11 +1,11 @@
 
 a, a:hover, a:focus {
-	color: #7FB2F0;
+	color: ##7FB2F0;
 }
 
 /* === Navbar === */
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:focus {
-	color: #7FB2F0;
+	color: ##7FB2F0;
 }
 .navbar-default .navbar-brand:hover {
 	color: #254378;
@@ -44,10 +44,10 @@ a, a:hover, a:focus {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	background-color: transparent;
-	
+
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li.active > a {
-	
+
 }
 /* Navbar inverse */
 .navbar-inverse {
@@ -186,7 +186,7 @@ a, a:hover, a:focus {
 	background-color: #4E7AC7;
 }
 #contact-section .contact .contact-form button:hover {
-	background-color: #7FB2F0;
+	background-color: ##7FB2F0;
 }
 
 
@@ -211,13 +211,13 @@ a, a:hover, a:focus {
 
 
 /* === Buttons === */
-.btn-default, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active { 
+.btn-default, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	background: #4E7AC7;
 	color: #fff;
 }
 .btn-default:hover {
 	color: #fff;
-	background: #7FB2F0;
+	background: ##7FB2F0;
 }
 .btn-primary, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
 	background-color: #3078B3;
@@ -240,8 +240,8 @@ a, a:hover, a:focus {
 
 /* === To Top === */
 .scrolltotop {
-	color: #7FB2F0;
-	border: 2px solid #7FB2F0;
+	color: ##7FB2F0;
+	border: 2px solid ##7FB2F0;
 }
 
 
@@ -250,7 +250,7 @@ a, a:hover, a:focus {
 @media only screen and (max-width : 767px) {
 
 .navbar-collapse {
-		background-color: #7FB2F0;
+		background-color: ##7FB2F0;
 		border-color: #fff !important;
 	}
 .navbar-default.navbar-shrink .navbar-nav > li.active > a {
